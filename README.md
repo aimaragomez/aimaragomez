@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm aimara 👋
 
-<!--
-**aimaragomez/aimaragomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bioinformatics Student | Data Science Enthusiast | Computational Tool Developer**
 
-Here are some ideas to get you started:
+## 🧬 Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Bioinformatics**: Analysis and interpretation of genomic data.
+- **Data Science**: Applying statistical and machine learning methods to biological data.
+- **Genomics**: Understanding genetic variations and gene expression.
+- **Computational Tool Development**: Building tools for data processing, visualization, and analysis.
+
+## Programming Languages:  
+  ![Python]
+  ![C++]
+  ![R]
+  ![Go]
+  ![JavaScript]
+  ![HTML]
+  ![CSS]
+
+- **Databases**:  
+  ![SQL]
